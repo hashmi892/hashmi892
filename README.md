@@ -1,3 +1,4 @@
+![logo](https://github.com/hashmi892/hashmi892/blob/main/Github%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Muhammad Waqar Younas</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
