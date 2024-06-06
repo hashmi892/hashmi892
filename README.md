@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React and JavaScript**
 
-- 📫 How to reach me **muhammadwaqaryounas304@gmail.com**
+- 📫 How to reach me **muhammadwaqaryounas60@gmail.com**
 
 - ⚡ Fun fact **I am funny 😅**
 
