@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/m_waqar_younas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m_waqar_younas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad-waqar-younas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-waqar-younas" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-waqar-younas-415595315/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-waqar-younas" height="30" width="40" /></a>
 <a href="https://instagram.com/hashmi_348" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hashmi_348" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/m_waqar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="m_waqar" height="30" width="40" /></a>
 </p>
